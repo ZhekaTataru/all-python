@@ -1,0 +1,11 @@
+name=[]
+name.append("Я")
+name.append("Мама")
+name.append("Папа")
+name.append("Сестра")
+name.append("Надя")
+print(name)
+name.insert(3,"Den")
+print(name)
+a = len(name)
+print(a)
